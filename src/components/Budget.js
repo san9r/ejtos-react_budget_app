@@ -14,3 +14,4 @@ const Budget = () => {
 </div>
     );
 };
+export default Budget;
